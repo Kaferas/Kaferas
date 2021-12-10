@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning VueJs 
-- 💬 Ask me about Php Javascript Java VueJs 
+- 💬 Ask me about *PHP *Javascript *Java *VueJs *API 
 - 📫 How to reach me: chrisirak95@gmail.com
 - 😄 Pronouns: Him/He
 
